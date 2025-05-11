@@ -32,5 +32,5 @@ sympify (from SymPy Library)
 
 Arithmetic
 Square roots
-Powers
+Powers   
 
