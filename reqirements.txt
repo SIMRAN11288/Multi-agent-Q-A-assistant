@@ -1,7 +1,8 @@
+flask
+requests
 sentence-transformers
-langchain
 faiss-cpu
-pickle5
 sympy
 transformers
-requests
+torch
+langchain
